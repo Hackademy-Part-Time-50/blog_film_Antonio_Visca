@@ -1,0 +1,8 @@
+.carousel{
+    border: #000000 outset 4px;
+}
+
+ .carousel-item img{
+    height: 300px;
+    width: 100%;
+}
